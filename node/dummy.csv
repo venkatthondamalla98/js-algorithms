@@ -1,0 +1,3 @@
+id,regionName,plantCode,plantName,plantCapacity,materialName,materialCode,materialCapacity,ohs,kgsOrLtrs,indentRaised,feedType,createdAt,updatedAt,tatInDays,nextIndentIn,orderQty
+5690,TIRUPATI,1200,PILER,57.5,HERITAGE SUPER BY PASS PIELLETS 50KG,211160,0,0,50,false,Feed,2025-07-07 19:06:38.498+00,2025-07-07 19:06:38.498+00,1,0,0
+5692,TIRUPATI,1200,PILER,57.5,HERITAGE CATTLE FEED DAIRY POWER 20%,211567,0,0,25,false,Feed,2025-07-07 19:06:38.498+00,2025-07-07 19:06:38.498+00,1,0,0
